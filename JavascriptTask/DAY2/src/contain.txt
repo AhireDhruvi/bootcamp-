@@ -1,0 +1,18 @@
+
+Conceptualize an expense tracker and create a plan how you will build that application. 
+
+>>>>Questions to answer
+
+1. What are the entities involved in this design?
+Answer : 1.User
+         2.Expense
+         3.Category
+         4.ModeofPayment
+         
+2. What are the possible properties of each object ?
+Answer : 1. expenseID
+         2. UserID
+         3. Amount
+         4. Date & Time
+         5. Category
+

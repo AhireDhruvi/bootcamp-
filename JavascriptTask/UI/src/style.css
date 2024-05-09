@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+}
+
+/* You can keep this file if you need to add any additional custom styles */
+#totalExpense {
+  margin-top: 20px;
+  font-weight: bold;
+}
